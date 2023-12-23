@@ -8,5 +8,11 @@ namespace GitTest.Models
 {
     internal class Class1
     {
+        public Class1()
+        {
+            System.Console.WriteLine("sadnsfjks");
+            System.Console.WriteLine("sadnsfjks");
+            System.Console.WriteLine("sadnsfjks");
+        }
     }
 }
